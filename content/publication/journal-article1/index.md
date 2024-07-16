@@ -35,8 +35,8 @@ abstract: We recruited 203 participants from the Greater Bay Area Healthy Aging 
 summary: This study suggests brainstem/PONs as an optimal reference region for calculating D3FSP SUVR to quantify cortical Aβ plaques in the brain. [18F]-D3FSP could distinguish CI from CU and strongly correlates with well-established plasma biomarkers, tau PET, neurodegeneration, and cognitive decline. However, future head-to-head comparisons of [18F]-D3FSP PET images with other validated Aβ PET tracers or postmortem results are crucial.
 
 tags:
-- Source Themes
-featured: false
+- New PET tracer
+featured: true
 
 # links:
 # - name: ""
