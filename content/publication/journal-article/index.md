@@ -1,16 +1,24 @@
 ---
-title: "An example journal article"
+title: "[18F]-D3FSP β-amyloid PET imaging in older adults and alzheimer’s disease"
 authors:
-- admin
-- Robert Ford
+- Anqi Li
+- Ruiyue Zhao
+- Mingkai Zhang
+- Pan Sun
+- Yue Cai
+- Lin Zhu
+- Hank Kung
+- Ying Han
+- Xinlu Wang
+- Tengfei Guo
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-07-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*European Journal of Nuclear Medicine and Molecular Imaging, 1*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We recruited 203 participants from the Greater Bay Area Healthy Aging Brain Study (GHABS) to undergo [18F]-D3FSP Aβ PET imaging. We analyzed plasma Aβ42/Aβ40, p-Tau181, glial fibrillary acidic protein (GFAP), and neurofilament light (NfL) using the Simoa platform. We compared the standardized uptake value (SUV) of five reference regions (cerebellum, cerebellum cortex, brainstem/PONs, white matter, composite of the four regions above) and AD typical cortical region (COMPOSITE) SUVR among different clinical groups. The association of D3FSP SUVR with plasma biomarkers, imaging biomarkers, and cognition was also investigated.Brainstem/PONs SUV showed the lowest fluctuation across diagnostic groups, and COMPOSITE D3FSP SUVR had an enormous effect distinguishing cognitively impaired (CI) individuals from cognitively unimpaired (CU) individuals. COMPOSITE SUVR (Referred to brainstem/PONs) was positively correlated with p-Tau181 (p < 0.001), GFAP (p < 0.001), NfL (p = 0.014) in plasma and temporal-metaROI tau deposition (p < 0.001), and negatively related to plasma Aβ42/Aβ40 (p < 0.001), temporal-metaROI cortical thickness (p < 0.01), residual hippocampal volume (p < 0.001) and cognition (p < 0.001). The voxel-wise analysis replicated these findings.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study suggests brainstem/PONs as an optimal reference region for calculating D3FSP SUVR to quantify cortical Aβ plaques in the brain. [18F]-D3FSP could distinguish CI from CU and strongly correlates with well-established plasma biomarkers, tau PET, neurodegeneration, and cognitive decline. However, future head-to-head comparisons of [18F]-D3FSP PET images with other validated Aβ PET tracers or postmortem results are crucial.
 
 tags:
 - Source Themes
@@ -33,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://link.springer.com/article/10.1007/s00259-024-06835-2
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
@@ -45,7 +53,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: content/publication/journal-article/featured.png
   focal_point: ""
   preview_only: false
 
