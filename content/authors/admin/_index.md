@@ -11,7 +11,7 @@ last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌟
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,7 +44,7 @@ interests:
   - Alzheimer's disease
 
 education:
-  - area: PhD in Division of Life Science
+  - area: PhD in Life Science
     institution: The Hong Kong University of Science and Technology
     date_start: 2022-09-01
     date_end: 2026-07-31
@@ -53,7 +53,7 @@ education:
     button:
       text: 'Read Paper'
       url: 'https://link.springer.com/article/10.1007/s00259-024-06835-2'
-  - area: M.Sc in State Key Laboratory of Cognitive Neuroscience and Learning
+  - area: M.Sc in Neuroscience
     institution: Beijing Normal University
     date_start: 2017-09-01
     date_end: 2020-08-01
@@ -62,34 +62,34 @@ education:
     button:
       text: 'Read Paper'
       url: 'https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002721'
-  - area: B.Sc in Faculty of Psychology
+  - area: B.Sc in Psychology
     institution: Beijing Normal University
     date_start: 2013-09-01
     date_end: 2017-06-30
 
-work:
-  - position: Research Assistant
-    company_name: Shenzhen Bay Laboratory
-    company_url: ''
-    company_logo: ''
-    date_start: 2020-01-15
-    date_end: 2022-08-15
-    summary: |2-
-      Responsibilities include:
-      - Cognitive data collection
-      - Data analysis
-      - Help carry out administrative affairs
+# work:
+#   - position: Research Assistant
+#     company_name: Shenzhen Bay Laboratory
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2020-01-15
+#     date_end: 2022-08-15
+#     summary: |2-
+#       Responsibilities include:
+#       - Cognitive data collection
+#       - Data analysis
+#       - Help carry out administrative affairs
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Neuroimaging Skills
     items:
-      - name: functional magnetic resonance imaging (fMRI)
+      - name: fMRI
         description: ''
         percent: 80
         icon: code-bracket
-      - name: positron emission tomography imaging (PET)
+      - name: PET
         description: ''
         percent: 80
         icon: chart-bar
@@ -136,14 +136,15 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
+# awards:
+#  - title: Neural Networks and Deep Learning
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+#    date: '2023-11-25'
+#    awarder: Coursera
+#    icon: coursera
+#    summary: |
+#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
 
 ## About Me
