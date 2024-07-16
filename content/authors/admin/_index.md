@@ -149,4 +149,4 @@ languages:
 
 ## About Me
 
-Anqi now is a PhD student of life science at the Hong Kong University of Science and Technology. Her research interests include: (1) brain Maintenance for resisting Alzheimer's disease genetic risk. (2) Neuropsychiatric change in early stage of Alzheimer's disease. (3) Synaptic disfunction and its related cognitive deficit in early stage of Alzheimer's disease.
+I am a PhD student of life science at the Hong Kong University of Science and Technology. 

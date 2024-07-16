@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        (1) brain Maintenance for resisting Alzheimer's disease genetic risk. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        (2) Neuropsychiatric change in early stage of Alzheimer's disease. 
+
+        (3) Synaptic disfunction and its related cognitive deficit in early stage of Alzheimer's disease.
         
         Please reach out to collaborate 😃
     design:
