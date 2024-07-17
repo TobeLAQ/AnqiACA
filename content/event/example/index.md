@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Highlight in SNMMI 2024
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: SNMMI 2024
+event_url: https://sites.snmmi.org/SNMMI-AM/Home.aspx?hkey=2f9701b4-43dd-4988-9b11-d5f2d3bc118c&WebsiteKey=2ac95882-cb13-4b7d-aabc-6f7c0ef60252
 
-location: Hugo Blox Builder HQ
+location: Metro Toronto Convention Centre Toronto
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Metro Toronto Convention Centre Toronto
+  city: Toronto
+  region: ON
   postcode: '94305'
-  country: United States
+  country: Canada
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Anqi was invited by SNMMI 2024 and give a talk about her work on D3FSP. This work was also be highlight by Prof. Richard Carson'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
