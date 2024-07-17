@@ -2,19 +2,15 @@
 title: "[18F]-D3FSP β-amyloid PET imaging in older adults and alzheimer’s disease"
 authors:
 - Anqi Li
-- Ruiyue Zhao
-- Mingkai Zhang
-- Pan Sun
+- Jing Du
 - Yue Cai
-- Lin Zhu
-- Hank Kung
-- Ying Han
-- Xinlu Wang
+- Xuhui Chen
+- Kun Sun 
 - Tengfei Guo
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-07-08T00:00:00Z"
+date: "2023-11-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,24 +22,24 @@ publishDate: "2024-07-08T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*European Journal of Nuclear Medicine and Molecular Imaging, 1*"
+publication: "*J Alzheimers Dis*"
 publication_short: ""
 
-abstract: We recruited 203 participants from the Greater Bay Area Healthy Aging Brain Study (GHABS) to undergo [18F]-D3FSP Aβ PET imaging. We analyzed plasma Aβ42/Aβ40, p-Tau181, glial fibrillary acidic protein (GFAP), and neurofilament light (NfL) using the Simoa platform. We compared the standardized uptake value (SUV) of five reference regions (cerebellum, cerebellum cortex, brainstem/PONs, white matter, composite of the four regions above) and AD typical cortical region (COMPOSITE) SUVR among different clinical groups. The association of D3FSP SUVR with plasma biomarkers, imaging biomarkers, and cognition was also investigated.Brainstem/PONs SUV showed the lowest fluctuation across diagnostic groups, and COMPOSITE D3FSP SUVR had an enormous effect distinguishing cognitively impaired (CI) individuals from cognitively unimpaired (CU) individuals. COMPOSITE SUVR (Referred to brainstem/PONs) was positively correlated with p-Tau181 (p < 0.001), GFAP (p < 0.001), NfL (p = 0.014) in plasma and temporal-metaROI tau deposition (p < 0.001), and negatively related to plasma Aβ42/Aβ40 (p < 0.001), temporal-metaROI cortical thickness (p < 0.01), residual hippocampal volume (p < 0.001) and cognition (p < 0.001). The voxel-wise analysis replicated these findings.
+abstract: In 862 non-demented ADNI participants with≥2 BMI measurements, we investigated the relationships between BMI slopes and longitudinal changes in amyloid-β (Aβ) accumulation, neurodegeneration and cognition, and follow-up tau deposition in different Aβ and APOE ɛ4 statuses. In Aβ+ APOE ɛ4 non-carriers, faster BMI declines were associated with faster rates of Aβ accumulation (standardized β (βstd) = -0.29, p = 0.001), AD meta regions of interest (metaROI) hypometabolism (βstd = 0.23, p = 0.026), memory declines (βstd = 0.17, p = 0.029), executive function declines (βstd = 0.19, p = 0.011), and marginally faster Temporal-metaROI cortical thinning (βstd = 0.15, p = 0.067) and higher follow-up Temporal-metaROI tau deposition (βstd = -0.17, p = 0.059). Among Aβ- individuals, faster BMI decreases were related to faster Aβ accumulation (βstd = -0.25, p = 0.023) in APOE ɛ4 carriers, whereas predicted faster declines in memory and executive function in both APOE ɛ4 carriers (βstd = 0.25, p = 0.008; βstd = 0.32, p = 0.001) and APOE ɛ4 non-carriers (βstd = 0.11, p = 0.030; βstd = 0.12, p = 0.026).
 
 # Summary. An optional shortened abstract.
-summary: This study suggests brainstem/PONs as an optimal reference region for calculating D3FSP SUVR to quantify cortical Aβ plaques in the brain. [18F]-D3FSP could distinguish CI from CU and strongly correlates with well-established plasma biomarkers, tau PET, neurodegeneration, and cognitive decline. However, future head-to-head comparisons of [18F]-D3FSP PET images with other validated Aβ PET tracers or postmortem results are crucial.
+summary: This study highlights the significance of tracking BMI data in older adults by providing novel insights into how body weight fluctuations and APOE ɛ4 interact with AD pathology and cognitive decline.
 
 tags:
-- New PET tracer
+- Risk Factor for Alzheimer's disease
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s00259-024-06835-2
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
+url_pdf: https://content.iospress.com/articles/journal-of-alzheimers-disease/jad230446 
+url_code: ''
+url_dataset: https://adni.loni.usc.edu/
 url_poster: ''
 url_project: ''
 url_slides: ''
