@@ -93,6 +93,10 @@ skills:
         description: ''
         percent: 80
         icon: chart-bar
+      - name: EEG
+        description: ''
+        percent: 80
+        icon: chart-bar
   - name: Technical Skills
     items:
       - name: Python
