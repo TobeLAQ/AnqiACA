@@ -40,8 +40,8 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-7793-224X
 
-interests:
-  - Alzheimer's disease
+# interests:
+#   - Alzheimer's disease
 
 education:
   - area: PhD in Life Science

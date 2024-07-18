@@ -35,12 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        (1) brain Maintenance for resisting Alzheimer's disease genetic risk. 
-
+        (1) Brain Maintenance for resisting Alzheimer's disease genetic risk. 
         (2) Neuropsychiatric change in early stage of Alzheimer's disease. 
-
         (3) Synaptic disfunction and its related cognitive deficit in early stage of Alzheimer's disease.
-        
         Please reach out to collaborate 😃
     design:
       columns: '1'
