@@ -1,5 +1,5 @@
 ---
-title: "[18F]-D3FSP β-amyloid PET imaging in older adults and alzheimer’s disease"
+title: "Body Mass Index Decrease Has a Distinct Association with Alzheimer’s Disease Pathophysiology in APOE ɛ4 Carriers and Non-Carriers"
 authors:
 - Anqi Li
 - Jing Du

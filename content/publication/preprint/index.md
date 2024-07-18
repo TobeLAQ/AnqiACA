@@ -33,7 +33,7 @@ summary: We found that, compared to simple restudy, retrieval practice was assoc
 tags:
 - Memory
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
