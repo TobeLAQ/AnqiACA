@@ -12,17 +12,17 @@ address:
   postcode: '94305'
   country: Canada
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: 'A talk about the clinical use of new Aβ PET tracer_D3FSP_.'
 abstract: 'Anqi was invited by SNMMI 2024 and give a talk about her work on D3FSP. This work was also be highlight by Prof. Richard Carson'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2024-06-08T13:00:00Z'
+date_end: '2024-06-11T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-06-11T00:00:00Z'
 
 authors:
   - admin
@@ -30,10 +30,10 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
