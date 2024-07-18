@@ -11,7 +11,7 @@ author_notes:
 - ""
 - ""
 date: "2023-11-07T00:00:00Z"
-doi: ""
+doi: "10.3233/JAD-230446"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-08T00:00:00Z"

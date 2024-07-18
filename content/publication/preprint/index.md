@@ -40,12 +40,12 @@ featured: true
 #   url: ""
 url_pdf: https://doi.org/10.1371/journal.pbio.3002721
 url_code: 'https://osf.io/7u64q/'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
