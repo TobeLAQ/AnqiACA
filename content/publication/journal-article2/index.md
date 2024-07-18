@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Alzheimers Disease*"
-publication_short: "J Alzheimers Dis"
+publication_short: "*J Alzheimers Dis*"
 
 abstract: In 862 non-demented ADNI participants with≥2 BMI measurements, we investigated the relationships between BMI slopes and longitudinal changes in amyloid-β (Aβ) accumulation, neurodegeneration and cognition, and follow-up tau deposition in different Aβ and APOE ɛ4 statuses. In Aβ+ APOE ɛ4 non-carriers, faster BMI declines were associated with faster rates of Aβ accumulation (standardized β (βstd) = -0.29, p = 0.001), AD meta regions of interest (metaROI) hypometabolism (βstd = 0.23, p = 0.026), memory declines (βstd = 0.17, p = 0.029), executive function declines (βstd = 0.19, p = 0.011), and marginally faster Temporal-metaROI cortical thinning (βstd = 0.15, p = 0.067) and higher follow-up Temporal-metaROI tau deposition (βstd = -0.17, p = 0.059). Among Aβ- individuals, faster BMI decreases were related to faster Aβ accumulation (βstd = -0.25, p = 0.023) in APOE ɛ4 carriers, whereas predicted faster declines in memory and executive function in both APOE ɛ4 carriers (βstd = 0.25, p = 0.008; βstd = 0.32, p = 0.001) and APOE ɛ4 non-carriers (βstd = 0.11, p = 0.030; βstd = 0.12, p = 0.026).
 

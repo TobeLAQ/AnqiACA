@@ -1,7 +1,7 @@
 ---
 title: "[18F]-D3FSP β-amyloid PET imaging in older adults and alzheimer’s disease"
 authors:
-- __Anqi Li__
+- "**Anqi Li**"
 - Ruiyue Zhao
 - Mingkai Zhang
 - Pan Sun
@@ -27,7 +27,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*European Journal of Nuclear Medicine and Molecular Imaging*"
-publication_short: "EJNMMI"
+publication_short: "*EJNMMI*"
 
 abstract: We recruited 203 participants from the Greater Bay Area Healthy Aging Brain Study (GHABS) to undergo [18F]-D3FSP Aβ PET imaging. We analyzed plasma Aβ42/Aβ40, p-Tau181, glial fibrillary acidic protein (GFAP), and neurofilament light (NfL) using the Simoa platform. We compared the standardized uptake value (SUV) of five reference regions (cerebellum, cerebellum cortex, brainstem/PONs, white matter, composite of the four regions above) and AD typical cortical region (COMPOSITE) SUVR among different clinical groups. The association of D3FSP SUVR with plasma biomarkers, imaging biomarkers, and cognition was also investigated.Brainstem/PONs SUV showed the lowest fluctuation across diagnostic groups, and COMPOSITE D3FSP SUVR had an enormous effect distinguishing cognitively impaired (CI) individuals from cognitively unimpaired (CU) individuals. COMPOSITE SUVR (Referred to brainstem/PONs) was positively correlated with p-Tau181 (p < 0.001), GFAP (p < 0.001), NfL (p = 0.014) in plasma and temporal-metaROI tau deposition (p < 0.001), and negatively related to plasma Aβ42/Aβ40 (p < 0.001), temporal-metaROI cortical thickness (p < 0.01), residual hippocampal volume (p < 0.001) and cognition (p < 0.001). The voxel-wise analysis replicated these findings.
 
