@@ -1,7 +1,7 @@
 ---
 title: 🎉 I finally have my own academic blog！
 summary: It took some work to figure out how to present this site, but, in the end, it was all worth it!
-date: 2024-07-19
+date: 2023-07-19
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
