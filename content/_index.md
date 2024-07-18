@@ -38,6 +38,7 @@ sections:
         (1) Brain Maintenance for resisting Alzheimer's disease genetic risk. 
         (2) Neuropsychiatric change in early stage of Alzheimer's disease. 
         (3) Synaptic disfunction and its related cognitive deficit in early stage of Alzheimer's disease.
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
@@ -81,7 +82,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 1
       # Filter on criteria
       filters:
         author: ""
