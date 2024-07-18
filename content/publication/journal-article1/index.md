@@ -15,7 +15,7 @@ author_notes:
 - ""
 - ""
 date: "2024-07-08T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s00259-024-06835-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-08T00:00:00Z"
@@ -42,7 +42,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://link.springer.com/article/10.1007/s00259-024-06835-2
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

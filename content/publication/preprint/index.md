@@ -1,12 +1,20 @@
 ---
-title: "An example preprint / working paper"
+title: "Goal-directed attention transforms both working and long-term memory representations in the human parietal cortex"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Huinan Hu
+- Anqi Li
+- Liang Zhang
+- Chuqi Liu
+- Liang Shi
+- Xiaojing Peng
+- Tong Li
+- Yu Zhou
+- Gui Xue
+date: "2024-07-15T00:00:00Z"
+doi: "https://doi.org/10.1371/journal.pbio.3002721"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,24 +22,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "PLoS Biology"
+publication_short: "PLoS Biol"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The abundance of distractors in the world poses a major challenge to our brain's limited processing capacity, but little is known about how selective attention modulates stimulus representations in the brain to reduce interference and support durable target memory. Here, we collected functional magnetic resonance imaging (fMRI) data in a selective attention task in which target and distractor pictures of different visual categories were simultaneously presented. Participants were asked to selectively process the target according to the effective cue, either before the encoding period (i.e., perceptual attention) or the maintenance period (i.e., reflective attention). On the next day, participants were asked to perform a memory recognition task in the scanner in which the targets, distractors, and novel items were presented in a pseudorandom order. Behavioral results showed that perceptual attention was better at enhancing target memory and reducing distractor memory than reflective attention, although the overall memory capacity (memory for both target and distractor) was comparable. Using multiple-voxel pattern analysis of the neural data, we found more robust target representation and weaker distractor representation in working memory for perceptual attention than for reflective attention. Interestingly, perceptual attention partially shifted the regions involved in maintaining the target representation from the visual cortex to the parietal cortex. Furthermore, the targets and distractors simultaneously presented in the perceptual attention condition showed reduced pattern similarity in the parietal cortex during retrieval compared to items not presented together. This neural pattern repulsion positively correlated with individuals' recognition of both targets and distractors. These results emphasize the critical role of selective attention in transforming memory representations to reduce interference and improve long-term memory performance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We found that, compared to simple restudy, retrieval practice was associated with better memory updating without suppressing the old memories. Furthermore, by tracking the neural evidence of old and new memories during both final memory and updating, we demonstrated that superior memory updating under retrieval practice could be achieved by multiple mechanisms. These results provide important insights into the neural mechanisms of memory updating.
 
 tags:
-- Large Language Models
+- Memory
 
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://doi.org/10.1371/journal.pbio.3002721
+url_code: 'https://osf.io/7u64q/'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -42,7 +50,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 

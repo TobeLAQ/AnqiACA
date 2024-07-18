@@ -19,7 +19,7 @@ author_notes:
   - '# Equal contribution'
 
 date: '2023-05-15T00:00:00Z'
-doi: '10.1212/WNL.0000000000207369'
+doi: 'https://doi.org/10.1212/WNL.0000000000207369'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -41,7 +41,7 @@ tags:
   - Risk Factor for Alzheimer's disease
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
