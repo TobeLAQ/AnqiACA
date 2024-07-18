@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: Canada
 
-summary: 'A talk about the clinical use of new Aβ PET tracer_D3FSP_.'
+summary: 'A talk about the clinical use of new Aβ PET tracer*D3FSP*.'
 abstract: 'Anqi was invited by SNMMI 2024 and give a talk about her work on D3FSP. This work was also be highlight by Prof. Richard Carson'
 
 # Talk start and end times.
